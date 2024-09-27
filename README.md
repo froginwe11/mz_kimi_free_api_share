@@ -1,4 +1,5 @@
 视频演示请戳：[https://www.bilibili.com/video/BV1tasdedEW4/]
+代码购买请戳：[https://mbd.pub/o/bread/ZpuamZty]
 
 通过 python 免费使用 kimi 的 api，操作简单，附带使用说明书
 
